@@ -5,8 +5,20 @@ body{
 h1, h2{
   text-align: center;
 }
-.section-1{
+.barra{
+  background-color: #EDEDED;
+}
+.cont-img{
+  z-index: 1;
+}
+.section-3{
+  background-color: #EDEDED;
+}
+.row-1{
   background-color: #000000;
+}
+.cont-1{
+  background-color: #DE1D22;
 }
 .section-4{
   background-color: #000000;
